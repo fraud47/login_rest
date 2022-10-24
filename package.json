@@ -1,0 +1,11 @@
+{
+  "name": "simple_login",
+  "version": "1.0.0",
+  "description": "simple login screen",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fraud47",
+  "license": "ISC"
+}
